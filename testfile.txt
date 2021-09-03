@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello
+=======
+korehatesutodayo
+>>>>>>> c05e181fe2544d2650ba4d047602a2c98da42e1d
